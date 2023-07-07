@@ -1,8 +1,5 @@
-- 👋 Hi, My name is Shalom Ajimoko
-- 👀 I’m interested in software back-end web development and 
-- 🌱 I’m currently learning full-stack web development 
-- 💞️ I’m looking to collaborate on React native applications
-- 📫 How to reach me ayodeleajimoko@gmail.conm
+ Hi, My name is Shalom Ajimoko and I am a recent Electrical Engineering graduate from Mcmaster University, I ahve ea year of experience in Project Management and Data Analysis roles and 5 months of Software Development experience. I am primarily interested in collaborating in back-end software development.
+
 
 <!---
 Ajimokas/Ajimokas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
