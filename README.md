@@ -1,4 +1,4 @@
- Hi, My name is Shalom Ajimoko and I am a recent Electrical Engineering graduate from Mcmaster University, I ahve ea year of experience in Project Management and Data Analysis roles and 5 months of Software Development experience. I am primarily interested in collaborating in back-end software development.
+ Hi, My name is Shalom Ajimoko and I am a recent Electrical Engineering graduate from Mcmaster University, I have **1 year and 2 months** of experience in Project Management and Data Analysis roles and 4 months of enterprise Software Development experience. Additonally, I have 1.5 years of full-stack development from various school/personal projects. If you love building full-stack web applications, shoot me a message!
 
 
 <!---
